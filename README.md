@@ -1,4 +1,4 @@
-# Python-plot-Trajectory
+plot-Trajectory
 1.此程序通过Python中的matplotlib进行画图，其中涉及了常见类型科研用图片的命令表达方式，仅供参考。
 
 
